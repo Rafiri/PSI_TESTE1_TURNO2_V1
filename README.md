@@ -2,7 +2,7 @@
 
 ## Informação do aluno
 
-    Nome: ...
+    Nome: Rafael Dias
 
 Teste termina às 13:25.
 
@@ -19,7 +19,10 @@ Não desformates o documento.
 
 P1 - Resposta
 
-    ...
+
+Imprime no ecrã o valor de x que é true.
+
+
 
 ### P2. Considera o seguinte código com um *bug*
 
@@ -31,16 +34,19 @@ P1 - Resposta
 
 P2 - Resposta
 
-    ...
+ uma possivel correçao e utilizar o short ao inves de long porque nao podemos converter tipos menores em maiores mas sim de maiores para menores.
 
 ### P3. Escreve um programa que solicite ao utilizador dois números reais e apresente o resultado do primeiro (base) elevado ao segundo (expoente). Não podes usar um método da classe Math para obter o resultado
 
 P3 - Resposta
 
-    ...
+    
 
 ### P4. Estás na pasta raiz do teu repositório local, onde atualizaste um ficheiro de nome 'Classes.cs'. Queres enviar **apenas** esta atualização para o teu repositório remoto. Indica os comandos necessários. A mensagem de commit deve ser apropriada
 
 P4 - Resposta
+ salvamos o ficheiro e adicionamos o mesmo para commit no terminal depois fazemos Fazer commit e push depois fazemos Fazer refresh do GitHub.
+ e os comandos são:classes.cs e git comit-m"estou a atualizar o ficheiro".
 
-    ...
+
+
